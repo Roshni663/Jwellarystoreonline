@@ -1,0 +1,18 @@
+[ { "id": 1, "name": "goldring", "photo": "jw2.jpg", "price": { "USD":15.00, "CAD": 18.50 }, "type": "jwellery" },
+{ "id": 2, "name": "bracelate", "photo": "jw3.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "necklace", "photo": "jw4.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "necklace", "photo": "jw5.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "bracelate", "photo": "jw6.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "necklace", "photo": "jw7.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "bracelate", "photo": "jw8.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "necklace", "photo": "jw9.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "goldring", "photo": "jw10.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "goldring", "photo": "jw11.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "necklace", "photo": "jw12.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "bracelate", "photo": "jw13.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "goldring", "photo": "jw14.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "bracelate", "photo": "jw15.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "bracelate", "photo": "jw16.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "necklace", "photo": "jw7.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"},
+{ "id": 2, "name": "necklace", "photo": "jw8.jpg", "price": { "USD": 10.44, "CAD": 13.82 }, "type": "jwellery"}
+]
